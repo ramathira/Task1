@@ -1,0 +1,31 @@
+
+@font-face {
+ font-family: "Neutra Text Light";
+ src: local("Neutra Text Light"),
+  url("./fonts/Neutra Text Light.ttf") format("truetype");
+
+}
+body {
+  margin: 0;
+  font-family: 'Neutra Text Light',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:#322625;
+
+}
+
+ul {
+  list-style-type: none;
+  padding:0
+}
+#breadcrumb
+{
+padding:	15px 0px 2px 10px;
+
+}
+#bc_path
+{
+	background-color:#fdc936
+
+}
